@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.mycompany.notepad">
+
+    <item android:id="@+id/action_settings2"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_saveNote2"
+        android:title="@string/action_saveNote"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_discardNote2"
+        android:title="@string/action_discardNote"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_shareNote2"
+        android:title="Share"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_addImage2"
+        android:title="Add Image"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+
+    <item android:id="@+id/action_colorPicker"
+        android:title="Select Color"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+    <item android:id="@+id/action_takePicture"
+        android:title="Take Picture"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+</menu>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Notepad</string>
+    <string name="noteTitle">Title</string>
+    <string name="titleHint">Title Hint</string>
+    <string name="noteContent">Note Content</string>
+    <string name="saveNoteButton">Save</string>
+    <string name="title_activity_enote">ENote</string>
+    <string name="title_activity_enotee">ENotee</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_saveNote">Save</string>
+    <string name="action_discardNote">Discard</string>
+    <string name="action_new">New Note</string>
+    <string name="title_activity_new_note">NewNote</string>
+
+</resources>
